@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Restaurant
+A user-friendly platform where users can order food items.
+On clicking any food item they will get the whole description of that item and an option to add it to the cart.
+Users can views all the items added to the cart in the cart page and increase or decrease item quantity or delete an item from the cart.
+They can enter location where the order is to be deliverd or select current location which will be detected using location API.
+The platform uses React js Tailwind CSS, Node js, Express js and MYSQL database.
+>>>>>>> 4692000eb9ce3a10230df12f5da9817cce4f5bdc
